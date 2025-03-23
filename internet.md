@@ -1,6 +1,6 @@
 # How the internet works
 
-![alt client-server model](./images/client-server.png)
+![alt client-server model](/images/client-server.png)
 
 - Start with of course the client and server model, the clent sends a request to the server for data and the server replies with a response that contains that data. This is the most basic form of the internet, so the internet is the layer, and we have just a ton of client and servers interconnected through this layers, and they are sharing data. So in a nut shell, the internet is just a bunch of clients and servers connected to layer.
 - What happens when a client makes a request to the server. So if you (or rather your browser) makes a request to `www.example.com`. We want to be able to step by step explain whats going on under the hood:
