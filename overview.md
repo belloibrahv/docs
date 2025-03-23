@@ -8,7 +8,7 @@ Prepares you for the following roles:
 - DevOps
 - And almost every role that requires infrastucture knowledege.
 
-You will cover topic such as Networking, OS, UNIX/Linux Systems, NAL SD, Troubleshooting, Coding, and Behavioural.
+You will cover topic such as Networking, Distributed System, UNIX/Linux Systems, Performance Optimization, Troubleshooting, Coding, and Behavioural.
 
 ## Operating System
 
